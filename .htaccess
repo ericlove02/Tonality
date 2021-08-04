@@ -1,0 +1,11 @@
+# RewriteEngine On # dont use when using localhost
+# RewriteCond %{ENV:HTTPS} !on [OR]
+# RewriteCond %{HTTP_HOST} ^www\. [NC]
+# RewriteRule ^ http://gotonality.com%{REQUEST_URI} [R=302,L,NE]
+php_value display_errors off
+<IfModule lsapi_module>
+AddHandler application/x-httpd-alt-php72___lsphp .php .php5 .phtml
+</IfModule>
+ErrorDocument 404 http://gotonality.com/404_error
+ErrorDocument 503 http://gotonality.com/503_error
+Options +MultiViews
