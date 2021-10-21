@@ -18,6 +18,7 @@
         <li><a href="#following-your-friends">Following your Friends</a></li>
         <li><a href="#vote-while-you-listen">Vote while you listen</a></li>
         <li><a href="#notifications">Notifications</a></li>
+        <li><a href="#mobile">Mobile</a></li>
       </ul>
     </li>
     <li><a href="#videos">Videos</a></li>
@@ -72,6 +73,9 @@ An added feature to Tonality is the Vote while you Listen widget. In the bottom 
 ### Notifications
 On a users profile page, they can visit their notifications page. This page shows recent activity regarding your account. This could be new followers, likes on your reviews, or discussion on a forum thread you are a part of.
 
+### Mobile
+Tonalty is specially formatted on mobile devices to have a edge-to-edge feed, giving more of an app feel while still be available on any device's web browser. A video of this formatting can be found below.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- EXAMPLES -->
@@ -83,6 +87,7 @@ https://user-images.githubusercontent.com/53005525/138234713-03fb1099-c009-43e9-
 
 https://user-images.githubusercontent.com/53005525/138234722-519abb5a-7fe4-4e5e-8dc0-c615122fefe4.mp4
 
+https://user-images.githubusercontent.com/53005525/138324343-06632457-094f-4823-91c8-79434fea4e00.mp4
 
 <!-- CONTACT -->
 ## Contact
