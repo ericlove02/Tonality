@@ -12,10 +12,15 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#creating-an-account">Creating an Account</a></li>
+        <li><a href="#how-does-tonality-work">How does Tonality work?</a></li>
+        <li><a href="#adding-to-your-profile">Adding to your Profile</a></li>
+        <li><a href="#following-your-friends">Following your Friends</a></li>
+        <li><a href="#vote-while-you-listen">Vote while you listen</a></li>
+        <li><a href="#notifications">Notifications</a></li>
       </ul>
     </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#videos">Videos</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -23,6 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project  
 Easily my largest project, Tonality is a fully developed social website. Tonality has a wide range of features, all centering around allowing users to share their musical interests, find new music, and share their opinions. I developed Tonality completely by myself, with feedback from two of my close friends, one of which had the original idea for the site. This website took over 600 hours to complete, and still has a lot of bugs that could be fixed. Considering it was developed soley by myself, I would like to think it isn't too bad.   
+Please disregard the site speed, as it is currently on free hosting and has significantly decrease in overall speed.
 
 ### Built With
 * [Spotify API](https://developer.spotify.com/documentation/web-api/)
@@ -69,9 +75,13 @@ On a users profile page, they can visit their notifications page. This page show
 <!-- EXAMPLES -->
 ## Videos
 
+https://user-images.githubusercontent.com/53005525/138234704-145ac295-43cc-41e3-98c9-1a8fc3ed7678.mp4
+
+https://user-images.githubusercontent.com/53005525/138234713-03fb1099-c009-43e9-873b-4668315cfc56.mp4
+
+https://user-images.githubusercontent.com/53005525/138234722-519abb5a-7fe4-4e5e-8dc0-c615122fefe4.mp4
 
 
-Screen recording the output significantly dropped the frame rate.
 <!-- CONTACT -->
 ## Contact
 
