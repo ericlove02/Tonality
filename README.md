@@ -28,6 +28,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project  
 Easily my largest project, Tonality is a fully developed social website. Tonality has a wide range of features, all centering around allowing users to share their musical interests, find new music, and share their opinions. I developed Tonality completely by myself, with feedback from two of my close friends, one of which had the original idea for the site. This website took over 600 hours to complete, and still has a lot of bugs that could be fixed. Considering it was developed soley by myself, I would like to think it isn't too bad.   
+#### Specifics on development
+This site was built using HTML, CSS, and JavaScript for the front-end, and SQL and PHP for the backend. The site heavily relies on jQuery's Ajax and CSS/JS Bootstrap for the dynamic feel and infinte feeds. As stated, this site took me over 600 hours to complete, as I worked completely alone on the programming and design portions of the site. Prior to working on this project, I had little experience with HTML, CSS, and JavaScript, and had never worked with SQL or PHP. In the end, I was able to create a fully functional social website with the ability to search over 70 million songs, while storing minimal data in my own databases. Tonality currently has 100 users, and has ratings for over 100,000 songs stored. If you have questions about the site, its development, or any other inquiry, do not hesitate to contact me.  
 Please disregard the site speed, as it is currently on free hosting and has significantly decrease in overall speed.
 
 ### Built With
